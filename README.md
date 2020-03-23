@@ -1,1 +1,26 @@
 # Marcador
+
+## FUNDACIÓN UNIVERSITARIA LOS LIBERTADORES
+
+### FACULTAD DE INGENIERIA
+
+### PROGRAMA DE INGENIERIA ELECTRONICA
+
+#### CODIFICACIÓN
+
+Nombres: RICHARD ALEXANDER CORTÁZAR FORERO.
+
+Codigo: 20151003600.
+
+         EDWIN YESID CARREÑO MARTINEZ
+
+Codigo: 20132002600
+
+Marzo 2020
+
+- Recursos
+
+  - Visual Studio Code
+
+- Descripcion
+  - Marcador actualizable y reiniciable
